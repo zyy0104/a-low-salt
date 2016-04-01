@@ -1,0 +1,17 @@
+test1:
+    host: 192.168.1.44
+    user: root
+    passwd: 123456
+    port: 22
+
+test3:
+    host: 192.168.1.249
+    user: root
+    passwd: cyb123wj
+    port: 22
+
+test2:
+    host: 192.168.1.44
+    user: root
+    passwd: 123456
+    port: 22

@@ -1,0 +1,713 @@
+2016-03-17 09:22:46 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-17 09:22:46 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-17 09:22:46 sftp.py[line:129] INFO [chan 0] Opened sftp connection (server version 3)
+2016-03-17 09:22:46 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-17 09:22:47 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-17 09:22:47 module.py[line:143] INFO [192.168.1.249] exec command [id] success
+2016-03-17 09:22:47 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-17 09:22:47 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-17 09:22:47 sftp.py[line:129] INFO [chan 0] Opened sftp connection (server version 3)
+2016-03-17 09:22:47 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-17 09:22:47 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-17 09:22:47 module.py[line:143] INFO [192.168.1.44] exec command [id] success
+2016-03-17 09:34:41 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-17 09:34:41 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-17 09:34:41 sftp.py[line:129] INFO [chan 0] Opened sftp connection (server version 3)
+2016-03-17 09:34:41 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-17 09:34:41 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-17 09:34:41 module.py[line:143] INFO [192.168.1.249] exec command [id] success
+2016-03-17 09:34:41 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-17 09:34:41 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-17 09:34:41 sftp.py[line:129] INFO [chan 0] Opened sftp connection (server version 3)
+2016-03-17 09:34:41 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-17 09:34:41 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-17 09:34:42 module.py[line:143] INFO [192.168.1.44] exec command [id] success
+2016-03-17 09:50:40 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-17 09:50:40 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-17 09:50:41 sftp.py[line:129] INFO [chan 0] Opened sftp connection (server version 3)
+2016-03-17 09:50:41 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-17 09:50:41 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-17 09:50:41 module.py[line:142] INFO [192.168.1.44] exec command [id] success
+2016-03-17 09:50:41 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-17 09:50:41 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-17 09:50:41 sftp.py[line:129] INFO [chan 0] Opened sftp connection (server version 3)
+2016-03-17 09:50:41 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-17 09:50:41 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-17 09:50:41 module.py[line:142] INFO [192.168.1.249] exec command [id] success
+2016-03-17 09:50:56 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-17 09:50:56 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-17 09:50:57 sftp.py[line:129] INFO [chan 0] Opened sftp connection (server version 3)
+2016-03-17 09:50:57 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-17 09:50:57 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-17 09:50:57 module.py[line:123] INFO 192.168.1.44 /etc/passwd Get Total files number: 1
+2016-03-17 09:50:57 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-17 09:50:57 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-17 09:50:57 sftp.py[line:129] INFO [chan 0] Opened sftp connection (server version 3)
+2016-03-17 09:50:57 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-17 09:50:57 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-17 09:50:57 module.py[line:123] INFO 192.168.1.44 /etc/passwd Get Total files number: 1
+2016-03-17 09:51:52 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-17 09:51:52 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-17 09:51:52 sftp.py[line:129] INFO [chan 0] Opened sftp connection (server version 3)
+2016-03-17 09:51:52 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-17 09:51:52 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-17 09:51:52 module.py[line:123] INFO 192.168.1.44 /etc/passwd Get Total files number: 1
+2016-03-17 09:51:52 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-17 09:51:52 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-17 09:51:52 sftp.py[line:129] INFO [chan 0] Opened sftp connection (server version 3)
+2016-03-17 09:51:52 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-17 09:51:53 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-17 09:51:53 module.py[line:123] INFO 192.168.1.44 /etc/passwd Get Total files number: 1
+2016-03-17 09:52:07 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-17 09:52:08 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-17 09:52:08 sftp.py[line:129] INFO [chan 0] Opened sftp connection (server version 3)
+2016-03-17 09:52:08 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-17 09:52:08 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-17 09:52:08 module.py[line:203] INFO 192.168.1.44 /home/a.txt Put Total files number: 1
+2016-03-17 09:52:08 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-17 09:52:08 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-17 09:52:08 sftp.py[line:129] INFO [chan 0] Opened sftp connection (server version 3)
+2016-03-17 09:52:08 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-17 09:52:08 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-17 09:52:08 module.py[line:203] INFO 192.168.1.44 /home/a.txt Put Total files number: 1
+2016-03-17 09:54:23 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-17 09:54:23 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-17 09:54:24 sftp.py[line:129] INFO [chan 0] Opened sftp connection (server version 3)
+2016-03-17 09:54:24 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-17 09:54:24 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-17 09:54:24 module.py[line:145] ERROR 
+2016-03-17 10:05:57 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-17 10:05:57 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-17 10:05:57 sftp.py[line:129] INFO [chan 0] Opened sftp connection (server version 3)
+2016-03-17 10:05:57 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-17 10:05:58 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-17 10:05:58 module.py[line:142] INFO [192.168.1.44] exec command [id] success
+2016-03-17 10:05:58 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-17 10:05:58 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-17 10:05:58 sftp.py[line:129] INFO [chan 0] Opened sftp connection (server version 3)
+2016-03-17 10:05:58 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-17 10:05:58 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-17 10:05:58 module.py[line:142] INFO [192.168.1.44] exec command [id] success
+2016-03-17 10:05:58 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-17 10:05:58 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-17 10:05:58 sftp.py[line:129] INFO [chan 0] Opened sftp connection (server version 3)
+2016-03-17 10:05:58 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-17 10:05:58 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-17 10:05:58 module.py[line:142] INFO [192.168.1.249] exec command [id] success
+2016-03-17 10:40:44 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-17 10:40:44 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-17 10:40:44 sftp.py[line:129] INFO [chan 0] Opened sftp connection (server version 3)
+2016-03-17 10:40:44 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-17 10:40:45 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-17 10:40:45 module.py[line:142] INFO [192.168.1.44] exec command [id] success
+2016-03-17 10:40:45 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-17 10:40:45 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-17 10:40:45 sftp.py[line:129] INFO [chan 0] Opened sftp connection (server version 3)
+2016-03-17 10:40:45 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-17 10:40:45 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-17 10:40:45 module.py[line:142] INFO [192.168.1.249] exec command [id] success
+2016-03-17 10:40:51 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-17 10:40:52 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-17 10:40:52 sftp.py[line:129] INFO [chan 0] Opened sftp connection (server version 3)
+2016-03-17 10:40:52 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-17 10:40:52 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-17 10:40:52 module.py[line:123] INFO 192.168.1.44 /etc/passwd Get Total files number: 1
+2016-03-17 10:40:52 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-17 10:40:52 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-17 10:40:52 sftp.py[line:129] INFO [chan 0] Opened sftp connection (server version 3)
+2016-03-17 10:40:52 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-17 10:40:52 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-17 10:40:52 module.py[line:123] INFO 192.168.1.44 /etc/passwd Get Total files number: 1
+2016-03-17 10:40:57 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-17 10:40:57 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-17 10:40:58 sftp.py[line:129] INFO [chan 0] Opened sftp connection (server version 3)
+2016-03-17 10:40:58 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-17 10:41:03 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-17 10:41:03 module.py[line:203] INFO 192.168.1.44 /home/a.txt Put Total files number: 1
+2016-03-17 10:41:03 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-17 10:41:03 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-17 10:41:03 sftp.py[line:129] INFO [chan 0] Opened sftp connection (server version 3)
+2016-03-17 10:41:03 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-17 10:41:03 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-17 10:41:03 module.py[line:203] INFO 192.168.1.44 /home/a.txt Put Total files number: 1
+2016-03-17 15:31:42 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-17 15:31:42 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-17 15:31:43 sftp.py[line:129] INFO [chan 0] Opened sftp connection (server version 3)
+2016-03-17 15:31:43 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-17 15:31:43 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-17 15:31:43 module.py[line:142] INFO [192.168.1.44] exec command [id] success
+2016-03-17 15:31:43 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-17 15:31:43 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-17 15:31:43 sftp.py[line:129] INFO [chan 0] Opened sftp connection (server version 3)
+2016-03-17 15:31:43 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-17 15:31:43 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-17 15:31:43 module.py[line:142] INFO [192.168.1.249] exec command [id] success
+2016-03-17 16:20:05 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-17 16:20:05 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-17 16:20:06 sftp.py[line:129] INFO [chan 0] Opened sftp connection (server version 3)
+2016-03-17 16:20:06 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-17 16:20:06 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-17 16:20:17 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-17 16:20:17 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-17 16:20:18 sftp.py[line:129] INFO [chan 0] Opened sftp connection (server version 3)
+2016-03-17 16:20:18 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-17 16:20:18 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-17 16:20:23 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-17 16:20:23 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-17 16:20:23 sftp.py[line:129] INFO [chan 0] Opened sftp connection (server version 3)
+2016-03-17 16:20:23 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-17 16:20:24 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-17 16:20:24 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-17 16:20:24 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-17 16:20:24 sftp.py[line:129] INFO [chan 0] Opened sftp connection (server version 3)
+2016-03-17 16:20:24 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-17 16:20:24 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-17 16:20:24 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-17 16:20:24 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-17 16:20:24 sftp.py[line:129] INFO [chan 0] Opened sftp connection (server version 3)
+2016-03-17 16:20:24 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-17 16:20:24 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-17 16:20:37 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-17 16:20:37 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-17 16:20:37 sftp.py[line:129] INFO [chan 0] Opened sftp connection (server version 3)
+2016-03-17 16:20:37 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-17 16:20:37 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-17 16:20:37 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-17 16:20:39 transport.py[line:1545] INFO Authentication (password) failed.
+2016-03-17 16:20:39 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-17 16:20:39 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-17 16:20:39 sftp.py[line:129] INFO [chan 0] Opened sftp connection (server version 3)
+2016-03-17 16:20:39 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-17 16:20:39 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-17 16:21:14 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-17 16:21:14 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-17 16:21:15 sftp.py[line:129] INFO [chan 0] Opened sftp connection (server version 3)
+2016-03-17 16:21:15 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-17 16:21:15 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-17 16:21:15 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-17 16:21:17 transport.py[line:1545] INFO Authentication (password) failed.
+2016-03-17 16:21:17 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-17 16:21:17 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-17 16:21:17 sftp.py[line:129] INFO [chan 0] Opened sftp connection (server version 3)
+2016-03-17 16:21:17 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-17 16:21:17 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-17 16:21:29 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-17 16:21:29 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-17 16:21:29 sftp.py[line:129] INFO [chan 0] Opened sftp connection (server version 3)
+2016-03-17 16:21:29 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-17 16:21:29 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-17 16:21:29 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-17 16:21:29 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-17 16:21:29 sftp.py[line:129] INFO [chan 0] Opened sftp connection (server version 3)
+2016-03-17 16:21:29 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-17 16:21:29 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-17 16:21:29 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-17 16:21:32 transport.py[line:1545] INFO Authentication (password) failed.
+2016-03-17 16:21:41 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-17 16:21:43 transport.py[line:1545] INFO Authentication (password) failed.
+2016-03-17 16:21:43 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-17 16:21:43 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-17 16:21:43 sftp.py[line:129] INFO [chan 0] Opened sftp connection (server version 3)
+2016-03-17 16:21:43 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-17 16:21:43 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-17 16:21:43 module.py[line:142] INFO [192.168.1.249] exec command [ls] success
+2016-03-17 16:21:43 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-17 16:21:43 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-17 16:21:44 sftp.py[line:129] INFO [chan 0] Opened sftp connection (server version 3)
+2016-03-17 16:21:44 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-17 16:21:44 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-17 16:21:44 module.py[line:142] INFO [192.168.1.44] exec command [ls] success
+2016-03-17 16:21:48 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-17 16:21:48 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-17 16:21:48 sftp.py[line:129] INFO [chan 0] Opened sftp connection (server version 3)
+2016-03-17 16:21:48 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-17 16:21:48 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-17 16:21:48 module.py[line:142] INFO [192.168.1.249] exec command [id] success
+2016-03-17 16:21:48 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-17 16:21:48 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-17 16:21:48 sftp.py[line:129] INFO [chan 0] Opened sftp connection (server version 3)
+2016-03-17 16:21:48 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-17 16:21:48 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-17 16:21:48 module.py[line:142] INFO [192.168.1.44] exec command [id] success
+2016-03-17 16:21:48 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-17 16:21:50 transport.py[line:1545] INFO Authentication (password) failed.
+2016-03-17 16:22:25 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-17 16:22:25 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-17 16:22:25 sftp.py[line:129] INFO [chan 0] Opened sftp connection (server version 3)
+2016-03-17 16:22:25 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-17 16:22:26 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-17 16:22:26 module.py[line:123] INFO 192.168.1.44 /etc/passwd Get Total files number: 1
+2016-03-17 16:22:26 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-17 16:22:28 transport.py[line:1545] INFO Authentication (password) failed.
+2016-03-17 16:22:34 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-17 16:22:36 transport.py[line:1545] INFO Authentication (password) failed.
+2016-03-17 16:22:36 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-17 16:22:36 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-17 16:22:36 sftp.py[line:129] INFO [chan 0] Opened sftp connection (server version 3)
+2016-03-17 16:22:36 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-17 16:22:36 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-17 16:22:36 module.py[line:203] INFO 192.168.1.44 /home/a.txt Put Total files number: 1
+2016-03-17 16:23:30 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-17 16:23:30 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-17 16:23:30 sftp.py[line:129] INFO [chan 0] Opened sftp connection (server version 3)
+2016-03-17 16:23:30 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-17 16:23:30 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-17 16:23:30 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-17 16:23:33 transport.py[line:1545] INFO Authentication (password) failed.
+2016-03-17 16:23:33 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-17 16:23:33 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-17 16:23:33 sftp.py[line:129] INFO [chan 0] Opened sftp connection (server version 3)
+2016-03-17 16:23:33 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-17 16:23:33 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-18 10:46:36 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-18 10:46:36 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-18 10:46:36 sftp.py[line:129] INFO [chan 0] Opened sftp connection (server version 3)
+2016-03-18 10:46:36 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-18 10:46:37 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-18 10:46:37 module.py[line:145] ERROR 
+2016-03-18 10:47:13 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-18 10:47:13 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-18 10:47:13 sftp.py[line:129] INFO [chan 0] Opened sftp connection (server version 3)
+2016-03-18 10:47:13 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-18 10:47:13 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-18 10:47:13 module.py[line:145] ERROR 
+2016-03-18 10:47:53 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-18 10:47:53 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-18 10:47:54 sftp.py[line:129] INFO [chan 0] Opened sftp connection (server version 3)
+2016-03-18 10:47:54 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-18 10:47:54 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-18 10:47:54 module.py[line:146] ERROR 
+2016-03-18 10:48:48 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-18 10:48:48 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-18 10:48:49 sftp.py[line:129] INFO [chan 0] Opened sftp connection (server version 3)
+2016-03-18 10:48:49 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-18 10:48:49 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-18 10:48:49 module.py[line:146] ERROR 
+2016-03-18 10:49:30 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-18 10:49:30 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-18 10:49:30 sftp.py[line:129] INFO [chan 0] Opened sftp connection (server version 3)
+2016-03-18 10:49:30 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-18 10:49:30 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-18 10:49:30 module.py[line:144] INFO [192.168.1.44] exec command [useradd user7 -s /bin/bash -d /home/user7 -u 1010 ;echo 123456|passwd --stdin user7 ;] success
+2016-03-18 10:49:45 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-18 10:49:45 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-18 10:49:45 sftp.py[line:129] INFO [chan 0] Opened sftp connection (server version 3)
+2016-03-18 10:49:45 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-18 10:49:45 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-18 10:49:45 module.py[line:144] INFO [192.168.1.44] exec command [useradd user7 -s /bin/bash -d /home/user7 -u 1010 ;echo 123456|passwd --stdin user7 ;] success
+2016-03-18 10:49:53 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-18 10:49:53 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-18 10:49:53 sftp.py[line:129] INFO [chan 0] Opened sftp connection (server version 3)
+2016-03-18 10:49:53 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-18 10:49:53 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-18 10:49:54 module.py[line:147] ERROR 
+2016-03-18 10:50:04 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-18 10:50:04 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-18 10:50:04 sftp.py[line:129] INFO [chan 0] Opened sftp connection (server version 3)
+2016-03-18 10:50:04 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-18 10:50:05 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-18 10:50:05 module.py[line:144] INFO [192.168.1.44] exec command [useradd user7 -s /bin/bash -d /home/user7 -u 1010 ;echo 123456|passwd --stdin user7 ;] success
+2016-03-18 10:51:05 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-18 10:51:05 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-18 10:51:05 sftp.py[line:129] INFO [chan 0] Opened sftp connection (server version 3)
+2016-03-18 10:51:05 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-18 10:51:05 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-18 10:51:06 module.py[line:144] INFO [192.168.1.44] exec command [useradd user8 -s /bin/bash -d /home/user8 -u 1011 ;echo 123456|passwd --stdin user8 ;] success
+2016-03-18 10:51:19 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-18 10:51:19 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-18 10:51:20 sftp.py[line:129] INFO [chan 0] Opened sftp connection (server version 3)
+2016-03-18 10:51:20 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-18 10:51:20 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-18 10:51:20 module.py[line:144] INFO [192.168.1.44] exec command [useradd user8 -s /bin/bash -d /home/user8 ;echo 123456|passwd --stdin user8 ;] success
+2016-03-18 10:51:34 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-18 10:51:35 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-18 10:51:35 sftp.py[line:129] INFO [chan 0] Opened sftp connection (server version 3)
+2016-03-18 10:51:35 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-18 10:51:35 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-18 10:51:35 module.py[line:147] ERROR 
+2016-03-18 10:53:55 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-18 10:53:55 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-18 10:53:55 sftp.py[line:129] INFO [chan 0] Opened sftp connection (server version 3)
+2016-03-18 10:53:55 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-18 10:53:55 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-18 10:53:56 module.py[line:148] INFO [192.168.1.44] exec command [useradd user8 -s /bin/bash -d /home/user8 ;echo 123456|passwd --stdin user8 ;] success
+2016-03-18 10:55:48 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-18 10:55:48 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-18 10:55:48 sftp.py[line:129] INFO [chan 0] Opened sftp connection (server version 3)
+2016-03-18 10:55:48 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-18 10:55:48 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-18 10:55:49 module.py[line:151] ERROR 
+2016-03-18 10:55:54 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-18 10:55:54 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-18 10:55:54 sftp.py[line:129] INFO [chan 0] Opened sftp connection (server version 3)
+2016-03-18 10:55:54 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-18 10:55:54 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-18 10:55:55 module.py[line:148] INFO [192.168.1.44] exec command [useradd user9 -m -m -m -s /bin/bash -d /home/user9 -m -u 1012 ;echo 123456|passwd --stdin user9 ;useradd user10 -m -m ;echo 123456|passwd --stdin user10 ;] success
+2016-03-18 10:56:02 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-18 10:56:02 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-18 10:56:02 sftp.py[line:129] INFO [chan 0] Opened sftp connection (server version 3)
+2016-03-18 10:56:02 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-18 10:56:02 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-18 10:56:03 module.py[line:148] INFO [192.168.1.44] exec command [useradd user10 -m -m ;echo 123456|passwd --stdin user10 ;useradd user9 -m -m -m -s /bin/bash -d /home/user9 -m -u 1012 ;echo 123456|passwd --stdin user9 ;] success
+2016-03-18 10:56:21 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-18 10:56:21 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-18 10:56:21 sftp.py[line:129] INFO [chan 0] Opened sftp connection (server version 3)
+2016-03-18 10:56:21 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-18 10:56:21 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-18 10:56:21 module.py[line:148] INFO [192.168.1.44] exec command [useradd user9 -m -m -m -s /bin/bash -d /home/user9 -m -u 1012 ;echo 123456|passwd --stdin user9 ;useradd user10 -m -m -m -s /bin/bash -d /home/user10 -m -u 1013 ;echo 123456|passwd --stdin user10 ;] success
+2016-03-18 10:57:11 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-18 10:57:11 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-18 10:57:11 sftp.py[line:129] INFO [chan 0] Opened sftp connection (server version 3)
+2016-03-18 10:57:11 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-18 10:57:11 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-18 10:57:12 module.py[line:149] INFO [192.168.1.44] exec command [useradd user9 -m -m -m -s /bin/bash -d /home/user9 -m -u 1012 ;echo 123456|passwd --stdin user9 ;useradd user10 -m -m -m -s /bin/bash -d /home/user10 -m -u 1013 ;echo 123456|passwd --stdin user10 ;] success
+2016-03-18 10:57:47 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-18 10:57:47 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-18 10:57:47 sftp.py[line:129] INFO [chan 0] Opened sftp connection (server version 3)
+2016-03-18 10:57:47 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-18 10:57:47 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-18 10:57:47 module.py[line:148] INFO [192.168.1.44] exec command [useradd user9 -m -m -m -s /bin/bash -d /home/user9 -m -u 1012 ;echo 123456|passwd --stdin user9 ;useradd user10 -m -m -m -s /bin/bash -d /home/user10 -m -u 1013 ;echo 123456|passwd --stdin user10 ;] success
+2016-03-18 10:58:04 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-18 10:58:04 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-18 10:58:04 sftp.py[line:129] INFO [chan 0] Opened sftp connection (server version 3)
+2016-03-18 10:58:04 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-18 10:58:04 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-18 10:58:05 module.py[line:148] INFO [192.168.1.44] exec command [useradd user9 -m -m -m -s /bin/bash -d /home/user9 ;echo 123456|passwd --stdin user9 ;useradd user10 -m -m -m -s /bin/bash -d /home/user10 -m -u 1013 ;echo 123456|passwd --stdin user10 ;] success
+2016-03-18 10:58:30 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-18 10:58:30 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-18 10:58:30 sftp.py[line:129] INFO [chan 0] Opened sftp connection (server version 3)
+2016-03-18 10:58:30 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-18 10:58:30 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-18 10:58:31 module.py[line:148] INFO [192.168.1.44] exec command [useradd user12 -m -m -m -s /bin/bash -d /home/user12 -m -u 1018 ;echo 123456|passwd --stdin user12 ;useradd user11 -m -m -m -s /bin/bash -d /home/user11 ;echo 123456|passwd --stdin user11 ;] success
+2016-03-18 11:00:46 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-18 11:00:46 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-18 11:00:47 sftp.py[line:129] INFO [chan 0] Opened sftp connection (server version 3)
+2016-03-18 11:00:47 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-18 11:00:47 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-18 11:00:47 module.py[line:151] ERROR 
+2016-03-18 11:00:47 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-18 11:00:49 transport.py[line:1545] INFO Authentication (password) failed.
+2016-03-18 11:01:35 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-18 11:01:35 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-18 11:01:35 sftp.py[line:129] INFO [chan 0] Opened sftp connection (server version 3)
+2016-03-18 11:01:35 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-18 11:01:35 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-18 11:01:36 module.py[line:148] INFO [192.168.1.44] exec command [useradd user14 -m -m -m -s /bin/bash -d /home/user14 -m -u 1019 ;echo 123456|passwd --stdin user14 ;useradd user13 -m -m -m -s /bin/bash ;echo 123456|passwd --stdin user13 ;] success
+2016-03-18 11:01:36 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-18 11:01:38 transport.py[line:1545] INFO Authentication (password) failed.
+2016-03-18 11:02:12 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-18 11:02:12 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-18 11:02:12 sftp.py[line:129] INFO [chan 0] Opened sftp connection (server version 3)
+2016-03-18 11:02:12 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-18 11:02:12 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-18 11:02:13 module.py[line:148] INFO [192.168.1.44] exec command [useradd user13 -m -m -m -s /bin/bash ;echo 123456|passwd --stdin user13 ;useradd user14 -m -m -m -s /bin/bash -d /home/user14 -m -u 1030 ;echo 123456|passwd --stdin user14 ;] success
+2016-03-18 11:02:13 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-18 11:02:15 transport.py[line:1545] INFO Authentication (password) failed.
+2016-03-18 11:02:37 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-18 11:02:37 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-18 11:02:38 sftp.py[line:129] INFO [chan 0] Opened sftp connection (server version 3)
+2016-03-18 11:02:38 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-18 11:02:38 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-18 11:02:38 module.py[line:148] INFO [192.168.1.44] exec command [useradd user14 -m -m -m -s /bin/bash -d /home/user14 -m -u 1030 ;echo 123456|passwd --stdin user14 ;useradd user13 -m -m -m -s /bin/bash ;echo 123456|passwd --stdin user13 ;] success
+2016-03-18 11:02:38 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-18 11:02:38 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-18 11:02:38 sftp.py[line:129] INFO [chan 0] Opened sftp connection (server version 3)
+2016-03-18 11:02:38 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-18 11:02:38 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-18 11:02:39 module.py[line:148] INFO [192.168.1.249] exec command [useradd user14 -m -m -m -s /bin/bash -d /home/user14 -m -u 1030 ;echo 123456|passwd --stdin user14 ;useradd user13 -m -m -m -s /bin/bash ;echo 123456|passwd --stdin user13 ;] success
+2016-03-18 11:03:51 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-18 11:03:51 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-18 11:03:51 sftp.py[line:129] INFO [chan 0] Opened sftp connection (server version 3)
+2016-03-18 11:03:51 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-18 11:03:51 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-18 11:03:52 module.py[line:148] INFO [192.168.1.249] exec command [useradd user15 -m -m -m -s /bin/bash ;echo 123456|passwd --stdin user15 ;useradd user15 -m -m -m -s /bin/bash ;echo 123456|passwd --stdin user15 ;] success
+2016-03-18 11:03:52 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-18 11:03:52 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-18 11:03:52 sftp.py[line:129] INFO [chan 0] Opened sftp connection (server version 3)
+2016-03-18 11:03:52 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-18 11:03:52 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-18 11:03:53 module.py[line:148] INFO [192.168.1.44] exec command [useradd user15 -m -m -m -s /bin/bash ;echo 123456|passwd --stdin user15 ;useradd user15 -m -m -m -s /bin/bash ;echo 123456|passwd --stdin user15 ;] success
+2016-03-18 11:07:27 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-18 11:07:27 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-18 11:07:28 sftp.py[line:129] INFO [chan 0] Opened sftp connection (server version 3)
+2016-03-18 11:07:28 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-18 11:07:28 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-18 11:07:28 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-18 11:07:30 transport.py[line:1545] INFO Authentication (password) failed.
+2016-03-18 11:07:30 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-18 11:07:30 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-18 11:07:30 sftp.py[line:129] INFO [chan 0] Opened sftp connection (server version 3)
+2016-03-18 11:07:30 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-18 11:07:30 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-18 11:07:48 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-18 11:07:48 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-18 11:07:48 sftp.py[line:129] INFO [chan 0] Opened sftp connection (server version 3)
+2016-03-18 11:07:48 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-18 11:07:48 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-18 11:07:48 module.py[line:148] INFO [192.168.1.249] exec command [useradd user15 -m -m -m -s /bin/bash ;echo 123456|passwd --stdin user15 ;useradd user15 -m -m -m -s /bin/bash -d /home/user14 -m -u 1030 ;echo 123456|passwd --stdin user15 ;] success
+2016-03-18 11:07:48 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-18 11:07:48 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-18 11:07:48 sftp.py[line:129] INFO [chan 0] Opened sftp connection (server version 3)
+2016-03-18 11:07:48 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-18 11:07:48 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-18 11:07:49 module.py[line:148] INFO [192.168.1.44] exec command [useradd user15 -m -m -m -s /bin/bash ;echo 123456|passwd --stdin user15 ;useradd user15 -m -m -m -s /bin/bash -d /home/user14 -m -u 1030 ;echo 123456|passwd --stdin user15 ;] success
+2016-03-18 11:08:02 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-18 11:08:02 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-18 11:08:02 sftp.py[line:129] INFO [chan 0] Opened sftp connection (server version 3)
+2016-03-18 11:08:02 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-18 11:08:02 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-18 11:08:02 module.py[line:148] INFO [192.168.1.249] exec command [useradd user15 -m -m -m -s /bin/bash -d /home/user14 -m -u 1030 ;echo 123456|passwd --stdin user15 ;useradd user15 -m -m -m -s /bin/bash ;echo 123456|passwd --stdin user15 ;] success
+2016-03-18 11:08:02 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-18 11:08:03 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-18 11:08:03 sftp.py[line:129] INFO [chan 0] Opened sftp connection (server version 3)
+2016-03-18 11:08:03 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-18 11:08:03 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-18 11:08:03 module.py[line:148] INFO [192.168.1.44] exec command [useradd user15 -m -m -m -s /bin/bash -d /home/user14 -m -u 1030 ;echo 123456|passwd --stdin user15 ;useradd user15 -m -m -m -s /bin/bash ;echo 123456|passwd --stdin user15 ;] success
+2016-03-18 11:08:54 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-18 11:08:54 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-18 11:08:54 sftp.py[line:129] INFO [chan 0] Opened sftp connection (server version 3)
+2016-03-18 11:08:54 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-18 11:08:55 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-18 11:08:55 module.py[line:148] INFO [192.168.1.44] exec command [useradd user15 -m -m -m -s /bin/bash -d /home/user14 -m -u 1030 ;echo 123456|passwd --stdin user15 ;useradd user15 -m -m -m -s /bin/bash ;echo 123456|passwd --stdin user15 ;] success
+2016-03-18 11:08:55 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-18 11:08:55 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-18 11:08:55 sftp.py[line:129] INFO [chan 0] Opened sftp connection (server version 3)
+2016-03-18 11:08:55 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-18 11:08:55 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-18 11:08:55 module.py[line:148] INFO [192.168.1.249] exec command [useradd user15 -m -m -m -s /bin/bash -d /home/user14 -m -u 1030 ;echo 123456|passwd --stdin user15 ;useradd user15 -m -m -m -s /bin/bash ;echo 123456|passwd --stdin user15 ;] success
+2016-03-18 11:09:17 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-18 11:09:17 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-18 11:09:17 sftp.py[line:129] INFO [chan 0] Opened sftp connection (server version 3)
+2016-03-18 11:09:17 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-18 11:09:17 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-18 11:09:17 module.py[line:148] INFO [192.168.1.249] exec command [useradd user15 -m -m -m -s /bin/bash ;echo 123456|passwd --stdin user15 ;useradd user15 -m -m -m -s /bin/bash -d /home/user14 -m -u 1030 ;echo 123456|passwd --stdin user15 ;] success
+2016-03-18 11:09:17 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-18 11:09:17 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-18 11:09:17 sftp.py[line:129] INFO [chan 0] Opened sftp connection (server version 3)
+2016-03-18 11:09:17 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-18 11:09:18 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-18 11:09:18 module.py[line:148] INFO [192.168.1.44] exec command [useradd user15 -m -m -m -s /bin/bash ;echo 123456|passwd --stdin user15 ;useradd user15 -m -m -m -s /bin/bash -d /home/user14 -m -u 1030 ;echo 123456|passwd --stdin user15 ;] success
+2016-03-18 11:10:12 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-18 11:10:12 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-18 11:10:12 sftp.py[line:129] INFO [chan 0] Opened sftp connection (server version 3)
+2016-03-18 11:10:12 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-18 11:10:12 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-18 11:11:52 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-18 11:11:52 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-18 11:11:52 sftp.py[line:129] INFO [chan 0] Opened sftp connection (server version 3)
+2016-03-18 11:11:52 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-18 11:11:52 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-18 11:12:37 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-18 11:12:38 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-18 11:12:38 sftp.py[line:129] INFO [chan 0] Opened sftp connection (server version 3)
+2016-03-18 11:12:38 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-18 11:12:38 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-18 11:12:51 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-18 11:12:51 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-18 11:12:51 sftp.py[line:129] INFO [chan 0] Opened sftp connection (server version 3)
+2016-03-18 11:12:51 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-18 11:12:51 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-18 11:12:58 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-18 11:12:58 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-18 11:12:58 sftp.py[line:129] INFO [chan 0] Opened sftp connection (server version 3)
+2016-03-18 11:12:58 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-18 11:12:58 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-18 11:13:41 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-18 11:13:41 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-18 11:13:41 sftp.py[line:129] INFO [chan 0] Opened sftp connection (server version 3)
+2016-03-18 11:13:41 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-18 11:13:41 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-18 11:14:11 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-18 11:14:11 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-18 11:14:11 sftp.py[line:129] INFO [chan 0] Opened sftp connection (server version 3)
+2016-03-18 11:14:11 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-18 11:14:11 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-18 11:14:11 module.py[line:148] INFO [192.168.1.44] exec command [useradd user15 -m -m -m -s /bin/bash -d /home/user14 -m -u 1030 ;echo 123456|passwd --stdin user15 ;useradd user15 -m -m -m -s /bin/bash ;echo 123456|passwd --stdin user15 ;] success
+2016-03-18 11:14:11 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-18 11:14:11 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-18 11:14:11 sftp.py[line:129] INFO [chan 0] Opened sftp connection (server version 3)
+2016-03-18 11:14:11 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-18 11:14:12 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-18 11:14:12 module.py[line:148] INFO [192.168.1.249] exec command [useradd user15 -m -m -m -s /bin/bash -d /home/user14 -m -u 1030 ;echo 123456|passwd --stdin user15 ;useradd user15 -m -m -m -s /bin/bash ;echo 123456|passwd --stdin user15 ;] success
+2016-03-18 11:15:09 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-18 11:15:09 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-18 11:15:09 sftp.py[line:129] INFO [chan 0] Opened sftp connection (server version 3)
+2016-03-18 11:15:09 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-18 11:15:09 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-18 11:15:09 module.py[line:123] INFO 192.168.1.44 /etc/passwd Get Total files number: 1
+2016-03-18 11:15:09 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-18 11:15:09 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-18 11:15:09 sftp.py[line:129] INFO [chan 0] Opened sftp connection (server version 3)
+2016-03-18 11:15:10 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-18 11:15:10 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-18 11:15:10 module.py[line:123] INFO 192.168.1.44 /etc/passwd Get Total files number: 1
+2016-03-18 11:43:18 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-18 11:43:18 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-18 11:43:18 sftp.py[line:129] INFO [chan 0] Opened sftp connection (server version 3)
+2016-03-18 11:43:18 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-18 11:43:18 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-18 11:43:20 module.py[line:148] INFO [192.168.1.44] exec command [userdel user1 -r;userdel user2 ;] success
+2016-03-18 11:43:20 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-18 11:43:20 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-18 11:43:20 sftp.py[line:129] INFO [chan 0] Opened sftp connection (server version 3)
+2016-03-18 11:43:20 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-18 11:43:20 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-18 11:43:20 module.py[line:152] ERROR 
+2016-03-18 11:44:23 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-18 11:44:23 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-18 11:44:23 sftp.py[line:129] INFO [chan 0] Opened sftp connection (server version 3)
+2016-03-18 11:44:23 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-18 11:44:23 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-18 11:44:23 module.py[line:152] ERROR 
+2016-03-18 11:44:23 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-18 11:44:23 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-18 11:44:24 sftp.py[line:129] INFO [chan 0] Opened sftp connection (server version 3)
+2016-03-18 11:44:24 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-18 11:44:24 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-18 11:44:24 module.py[line:148] INFO [192.168.1.44] exec command [useradd user2 -m -m -m -s /bin/bash -d /home/user2 -m -u 1030 ;echo 123456|passwd --stdin user2 ;useradd user1 -m -m -m -s /bin/bash ;echo 123456|passwd --stdin user1 ;] success
+2016-03-18 11:44:32 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-18 11:44:32 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-18 11:44:32 sftp.py[line:129] INFO [chan 0] Opened sftp connection (server version 3)
+2016-03-18 11:44:32 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-18 11:44:32 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-18 11:44:33 module.py[line:148] INFO [192.168.1.44] exec command [useradd user2 -m -m -m -s /bin/bash -d /home/user2 ;echo 123456|passwd --stdin user2 ;useradd user1 -m -m -m -s /bin/bash ;echo 123456|passwd --stdin user1 ;] success
+2016-03-18 11:44:33 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-18 11:44:33 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-18 11:44:33 sftp.py[line:129] INFO [chan 0] Opened sftp connection (server version 3)
+2016-03-18 11:44:33 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-18 11:44:33 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-18 11:44:33 module.py[line:148] INFO [192.168.1.44] exec command [useradd user2 -m -m -m -s /bin/bash -d /home/user2 ;echo 123456|passwd --stdin user2 ;useradd user1 -m -m -m -s /bin/bash ;echo 123456|passwd --stdin user1 ;] success
+2016-03-18 11:44:37 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-18 11:44:37 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-18 11:44:37 sftp.py[line:129] INFO [chan 0] Opened sftp connection (server version 3)
+2016-03-18 11:44:37 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-18 11:44:38 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-18 11:44:38 module.py[line:148] INFO [192.168.1.44] exec command [userdel user1 -r;userdel user2 ;] success
+2016-03-18 11:44:38 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-18 11:44:38 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-18 11:44:38 sftp.py[line:129] INFO [chan 0] Opened sftp connection (server version 3)
+2016-03-18 11:44:38 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-18 11:44:38 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-18 11:44:39 module.py[line:152] ERROR 
+2016-03-18 11:46:01 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-18 11:46:01 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-18 11:46:01 sftp.py[line:129] INFO [chan 0] Opened sftp connection (server version 3)
+2016-03-18 11:46:01 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-18 11:46:01 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-18 11:46:01 module.py[line:152] ERROR 
+2016-03-18 11:46:01 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-18 11:46:01 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-18 11:46:01 sftp.py[line:129] INFO [chan 0] Opened sftp connection (server version 3)
+2016-03-18 11:46:01 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-18 11:46:02 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-18 11:46:02 module.py[line:152] ERROR 
+2016-03-18 11:46:19 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-18 11:46:19 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-18 11:46:19 sftp.py[line:129] INFO [chan 0] Opened sftp connection (server version 3)
+2016-03-18 11:46:19 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-18 11:46:19 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-18 11:46:20 module.py[line:148] INFO [192.168.1.44] exec command [useradd user1 -m -m -m -s /bin/bash ;echo 123456|passwd --stdin user1 ;useradd user2 -m -m -m -s /bin/bash -d /home/user2 ;echo 123456|passwd --stdin user2 ;] success
+2016-03-18 11:46:20 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-18 11:46:20 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-18 11:46:20 sftp.py[line:129] INFO [chan 0] Opened sftp connection (server version 3)
+2016-03-18 11:46:20 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-18 11:46:20 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-18 11:46:21 module.py[line:148] INFO [192.168.1.44] exec command [useradd user1 -m -m -m -s /bin/bash ;echo 123456|passwd --stdin user1 ;useradd user2 -m -m -m -s /bin/bash -d /home/user2 ;echo 123456|passwd --stdin user2 ;] success
+2016-03-18 11:46:25 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-18 11:46:25 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-18 11:46:26 sftp.py[line:129] INFO [chan 0] Opened sftp connection (server version 3)
+2016-03-18 11:46:26 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-18 11:46:26 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-18 11:46:26 module.py[line:148] INFO [192.168.1.44] exec command [userdel user1 -r;userdel user2 ;] success
+2016-03-18 11:48:09 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-18 11:48:09 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-18 11:48:10 sftp.py[line:129] INFO [chan 0] Opened sftp connection (server version 3)
+2016-03-18 11:48:10 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-18 11:48:10 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-18 11:48:10 module.py[line:152] ERROR 
+2016-03-18 11:48:23 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-18 11:48:23 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-18 11:48:23 sftp.py[line:129] INFO [chan 0] Opened sftp connection (server version 3)
+2016-03-18 11:48:23 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-18 11:48:23 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-18 11:48:23 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-18 11:48:23 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-18 11:48:23 sftp.py[line:129] INFO [chan 0] Opened sftp connection (server version 3)
+2016-03-18 11:48:23 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-18 11:48:23 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-18 11:48:23 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-18 11:48:23 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-18 11:48:23 sftp.py[line:129] INFO [chan 0] Opened sftp connection (server version 3)
+2016-03-18 11:48:23 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-18 11:48:23 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-18 11:48:34 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-18 11:48:34 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-18 11:48:34 sftp.py[line:129] INFO [chan 0] Opened sftp connection (server version 3)
+2016-03-18 11:48:34 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-18 11:48:34 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-18 11:48:35 module.py[line:148] INFO [192.168.1.44] exec command [useradd user2 -m -m -m -s /bin/bash -d /home/user2 ;echo 123456|passwd --stdin user2 ;useradd user1 -m -m -m -s /bin/bash ;echo 123456|passwd --stdin user1 ;] success
+2016-03-18 11:48:35 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-18 11:48:35 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-18 11:48:35 sftp.py[line:129] INFO [chan 0] Opened sftp connection (server version 3)
+2016-03-18 11:48:35 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-18 11:48:35 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-18 11:48:35 module.py[line:148] INFO [192.168.1.44] exec command [useradd user2 -m -m -m -s /bin/bash -d /home/user2 ;echo 123456|passwd --stdin user2 ;useradd user1 -m -m -m -s /bin/bash ;echo 123456|passwd --stdin user1 ;] success
+2016-03-18 11:48:42 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-18 11:48:42 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-18 11:48:42 sftp.py[line:129] INFO [chan 0] Opened sftp connection (server version 3)
+2016-03-18 11:48:42 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-18 11:48:42 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-18 11:48:43 module.py[line:148] INFO [192.168.1.44] exec command [userdel user2 ;userdel user1 -r;] success
+2016-03-18 11:51:11 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-18 11:51:11 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-18 11:51:11 sftp.py[line:129] INFO [chan 0] Opened sftp connection (server version 3)
+2016-03-18 11:51:11 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-18 11:51:12 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-18 11:51:12 module.py[line:152] ERROR 
+2016-03-18 11:51:14 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-18 11:51:14 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-18 11:51:14 sftp.py[line:129] INFO [chan 0] Opened sftp connection (server version 3)
+2016-03-18 11:51:14 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-18 11:51:14 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-18 11:51:15 module.py[line:148] INFO [192.168.1.44] exec command [useradd user1 -m -m -m -s /bin/bash ;echo 123456|passwd --stdin user1 ;useradd user2 -m -m -m -s /bin/bash -d /home/user2 ;echo 123456|passwd --stdin user2 ;] success
+2016-03-18 11:51:15 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-18 11:51:15 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-18 11:51:15 sftp.py[line:129] INFO [chan 0] Opened sftp connection (server version 3)
+2016-03-18 11:51:15 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-18 11:51:15 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-18 11:51:16 module.py[line:148] INFO [192.168.1.44] exec command [useradd user1 -m -m -m -s /bin/bash ;echo 123456|passwd --stdin user1 ;useradd user2 -m -m -m -s /bin/bash -d /home/user2 ;echo 123456|passwd --stdin user2 ;] success
+2016-03-18 11:51:20 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-18 11:51:20 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-18 11:51:20 sftp.py[line:129] INFO [chan 0] Opened sftp connection (server version 3)
+2016-03-18 11:51:20 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-18 11:51:20 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-18 11:51:21 module.py[line:148] INFO [192.168.1.44] exec command [userdel user1 -r;userdel user2 ;] success
+2016-03-18 12:02:14 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-18 12:02:14 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-18 12:02:14 sftp.py[line:129] INFO [chan 0] Opened sftp connection (server version 3)
+2016-03-18 12:02:14 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-18 12:02:14 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-18 12:02:32 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-18 12:02:32 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-18 12:02:32 sftp.py[line:129] INFO [chan 0] Opened sftp connection (server version 3)
+2016-03-18 12:02:32 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-18 12:02:32 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-18 12:02:32 module.py[line:123] INFO 192.168.1.44 /etc/passwd Get Total files number: 1
+2016-03-18 12:02:32 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-18 12:02:32 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-18 12:02:32 sftp.py[line:129] INFO [chan 0] Opened sftp connection (server version 3)
+2016-03-18 12:02:32 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-18 12:02:32 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-18 12:02:32 module.py[line:123] INFO 192.168.1.44 /etc/passwd Get Total files number: 1
+2016-03-18 12:03:55 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-18 12:03:55 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-18 12:03:55 sftp.py[line:129] INFO [chan 0] Opened sftp connection (server version 3)
+2016-03-18 12:03:55 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-18 12:03:55 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-18 12:03:55 module.py[line:211] INFO 192.168.1.44 /home/a.txt Put Total files number: 1
+2016-03-18 12:03:55 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-18 12:03:55 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-18 12:03:55 sftp.py[line:129] INFO [chan 0] Opened sftp connection (server version 3)
+2016-03-18 12:03:55 transport.py[line:1545] INFO Connected (version 2.0, client OpenSSH_5.3)
+2016-03-18 12:03:55 transport.py[line:1545] INFO Authentication (password) successful!
+2016-03-18 12:03:55 module.py[line:211] INFO 192.168.1.44 /home/a.txt Put Total files number: 1
