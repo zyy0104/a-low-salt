@@ -171,5 +171,3 @@ user.del:
   - home: False   
 C:\Users\Yuntu\Desktop\Python\Yuntu\day9\yealstack>python yeal.py user.del userdel   
 192.168.1.44 :OK   
-
-
